@@ -1,4 +1,4 @@
-#  Smart Store (Allgift4U) - AI-Powered Order Management System
+#  Smart Store (Allgift4U) - AI-Powered Order Management System.
 
 An advanced, full-stack order and inventory management system designed using a decoupled client-server architecture. The platform features an autonomous chatbot agent capable of parsing natural language and user inputs to intelligently process sales and manage stocks.
 
